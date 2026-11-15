@@ -1,4 +1,4 @@
-module github.com/hitechcloud-vietnam/blazehttp
+module github.com/hitechcloudvn/blazehttp
 
 go 1.19
 

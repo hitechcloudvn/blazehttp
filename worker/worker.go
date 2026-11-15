@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	blazehttp "github.com/hitechcloud-vietnam/blazehttp/http"
+	blazehttp "github.com/hitechcloudvn/blazehttp/http"
 
-	"github.com/hitechcloud-vietnam/blazehttp/testcases"
+	"github.com/hitechcloudvn/blazehttp/testcases"
 )
 
 type Progress interface {

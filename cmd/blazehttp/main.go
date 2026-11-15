@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hitechcloud-vietnam/blazehttp/testcases"
-	"github.com/hitechcloud-vietnam/blazehttp/utils"
-	"github.com/hitechcloud-vietnam/blazehttp/worker"
+	"github.com/hitechcloudvn/blazehttp/testcases"
+	"github.com/hitechcloudvn/blazehttp/utils"
+	"github.com/hitechcloudvn/blazehttp/worker"
 	"github.com/schollz/progressbar/v3"
 )
 

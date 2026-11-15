@@ -19,10 +19,10 @@ import (
 	fTheme "fyne.io/fyne/v2/theme"
 	"fyne.io/fyne/v2/widget"
 
-	"github.com/hitechcloud-vietnam/blazehttp/gui/theme"
-	"github.com/hitechcloud-vietnam/blazehttp/testcases"
-	"github.com/hitechcloud-vietnam/blazehttp/utils"
-	"github.com/hitechcloud-vietnam/blazehttp/worker"
+	"github.com/hitechcloudvn/blazehttp/gui/theme"
+	"github.com/hitechcloudvn/blazehttp/testcases"
+	"github.com/hitechcloudvn/blazehttp/utils"
+	"github.com/hitechcloudvn/blazehttp/worker"
 	"github.com/samber/lo"
 )
 
